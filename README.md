@@ -1,5 +1,7 @@
 # ⏱️ Stopwatch Web Application
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://kimtia18.github.io/Task-02-Stopwatch/)
 
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-black)](https://github.com/kimtia18/Task-02-Stopwatch)
 A responsive and interactive stopwatch web application built using HTML, CSS, and JavaScript.
 
 ## 📌 About the Project
